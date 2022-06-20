@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @harshiks3
 - 👀 I’m interested in fullStack Development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/harshith-ks-53b4a3188/
 
 <!---
 harshiks3/harshiks3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
