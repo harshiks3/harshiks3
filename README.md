@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshiks3
-- 👀 I’m interested in fullStack Development
-- 🌱 I’m currently learning javascript
+- 👀 MEAN Stack Development
+- 🌱 Wakeup=>{code}=>sleep
 - 📫 How to reach me https://www.linkedin.com/in/harshith-ks-53b4a3188/
 
 <!---
