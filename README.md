@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @harshiks3
-- 👀 MEAN Stack Development
-- 🌱 Wakeup=>{code}=>sleep
-- 📫 How to reach me https://www.linkedin.com/in/harshith-ks-53b4a3188/
+
+👋 Hi there! I'm Harshith Ks, a passionate DevOps engineer based in Bangalore, Karnataka.
+
+📧 Email: harshithksgs@gmail.com
+🔗 LinkedIn: linkedin.com/in/harshith-ks-53b4a3188
+📍 Location: Bangalore, Karnataka
+
+
+
 
 <!---
 harshiks3/harshiks3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
