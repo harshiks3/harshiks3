@@ -2,7 +2,9 @@
 👋 Hi there! I'm Harshith Ks, a passionate DevOps engineer based in Bangalore, Karnataka.
 
 📧 Email: harshithksgs@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/harshith-ks-53b4a3188
+
 📍 Location: Bangalore, Karnataka
 
 
