@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm Harshith Ks, a passionate DevOps engineer based in Bangalore, Karnataka.
+👋 Hi there! I'm Harshith Ks, a passionate CLoud & DevOps engineer from Bangalore, Karnataka.
 
 📧 Email: harshithksgs@gmail.com
 
