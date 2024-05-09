@@ -3,7 +3,7 @@
 
 📧 Email: harshithksgs@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/harshith-ks-53b4a3188
+🔗 LinkedIn: www.linkedin.com/in/harshith-ks-53b4a3188
 
 📍 Location: Bangalore, Karnataka
 
